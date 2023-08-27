@@ -10,6 +10,7 @@ public class MpApplication {
 		SpringApplication.run(MpApplication.class, args);
 		// alterado do Github
 		// alterado do Eclipse
+		// alterado em uma nova branch
 	}
 
 }
